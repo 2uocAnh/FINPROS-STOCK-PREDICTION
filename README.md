@@ -2,9 +2,9 @@
 
 This repository contains code for analyzing and predicting stock prices using historical data. The project focuses on four stocks: **FPT**, **MSN**, **PNJ**, and **VIC**. The analysis includes data preprocessing, visualization, and basic prediction using **LSTM** (Long Short-Term Memory) models.
 
-- **Data preprocessing**
-- **Visualization** of stock trends
-- Building **LSTM models** for price prediction.
+- **Data preprocessing**.
+- **Visualization of stock trends**.
+- **Building LSTM models for price prediction**.
 
 ## Features
 
